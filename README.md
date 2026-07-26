@@ -23,6 +23,16 @@ The project includes data preprocessing, exploratory data analysis (EDA), featur
 - Machine Learning
 - Jupyter Notebook
 
+## 📈 Insights Generated
+
+The exploratory data analysis and recommendation system revealed several valuable insights from the Netflix dataset:
+
+- Drama Genre is the most frequest genre in our dataset to be released on Netflix among other 19 genres
+- average category has the highest votes in Vote_Average column with frequency 6613
+- Spider-Man: No Way Home movie got the highest popularity and its genre are Action, Adventure & Science Fiction
+- The United States vs. Billie Holiday and Threads movie got the lowest popularity and its genre are Music, Drama, War, History & Science Fiction
+- According to the data, 1970 year has the most filmed movies.
+
 ## 📂 Project Structure
 
 ```
