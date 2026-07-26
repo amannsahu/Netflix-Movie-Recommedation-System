@@ -33,20 +33,6 @@ The exploratory data analysis and recommendation system revealed several valuabl
 - The United States vs. Billie Holiday and Threads movie got the lowest popularity and its genre are Music, Drama, War, History & Science Fiction
 - According to the data, 1970 year has the most filmed movies.
 
-## 📂 Project Structure
-
-```
-Netflix-Movie-Recommedation-System/
-│
-├── data/
-├── notebooks/
-├── images/
-├── app.py
-├── requirements.txt
-├── README.md
-└── model.pkl
-```
-
 ## 📊 Features
 
 - Data Cleaning
